@@ -43,7 +43,10 @@
 - [Microsoft365 ](https://github.com/DekBaCom/Microsoft365)  
 - [Azure Scripts ](https://github.com/DekBaCom/AzureScripts)
 - [Ansible ](https://github.com/DekBaCom/Ansible.git)
-
+- [M365 Report](https://github.com/DekBaCom/M365-Report)
+- [M365 Selector ](https://dekbacom.github.io/m365-selector/)
+- [Entra ID Consultant Tool ](https://dekbacom.github.io/EntraIDConsultantTool/)
+- [Zero-trust-checklist ](https://dekbacom.github.io/Zero-trust-checklist/)
 ## Latest Github posts
 - [Get-Inventory on Azure and Export ](https://github.com/DekBaCom/AzureScripts/tree/main/Get-InventoryonAzure) 
 - [How to create distributiongroup and add member ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Create_distributionGroup-and-Add-Member)  
