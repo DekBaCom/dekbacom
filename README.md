@@ -50,6 +50,7 @@
 - [Entra ID Consultant Tool ](https://dekbacom.github.io/EntraIDConsultantTool/)
 - [Zero-trust-checklist ](https://dekbacom.github.io/Zero-trust-checklist/)
 - [Microsoft Intune Implementation Checklist & Report ](https://dekbacom.github.io/intune-checklist/)
+- [M365 Network Bandwidth Calculator](https://dekbacom.github.io/m365-bandwidth-calculator/)
  
 ## Latest Github posts
 - [Get-Inventory on Azure and Export ](https://github.com/DekBaCom/AzureScripts/tree/main/Get-InventoryonAzure) 
