@@ -45,6 +45,7 @@
 - [Ansible ](https://github.com/DekBaCom/Ansible.git)
 
 ## Microsoft web portal for Consult
+- [Microsoft365 Setup Guide](https://dekbacom.github.io/Microsoft365SetupGuide/)
 - [M365 Report](https://github.com/DekBaCom/M365-Report)
 - [M365 Selector ](https://dekbacom.github.io/m365-selector/)
 - [Entra ID Consultant Tool ](https://dekbacom.github.io/EntraIDConsultantTool/)
