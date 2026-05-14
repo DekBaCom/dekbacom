@@ -47,6 +47,7 @@
 - [Microsoft Intune Implementation Checklist & Report ](https://dekbacom.github.io/intune-checklist/)
 - [M365 Network Bandwidth Calculator](https://dekbacom.github.io/m365-bandwidth-calculator/)
 - [Microsoft 365 Archive vs Azure Archive Storage](https://dekbacom.github.io/Microsoft-365-Archive-vs-Azure-Archive-storage/)
+- [Purview  Checklist](https://dekbacom.github.io/purview-checklist/)
 
 ## Category on Github 
 - [Terraform ](https://github.com/DekBaCom/Terraform)
