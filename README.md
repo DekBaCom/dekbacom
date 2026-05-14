@@ -37,12 +37,6 @@
 <b>if you like what i do, maybe consider buying me a coffee/tea <b>🥺👉👈
 
 <a href="https://www.buymeacoffee.com/dekbacom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br>
-## Category on Github 
-- [Terraform ](https://github.com/DekBaCom/Terraform)
-- [Vagrant](https://github.com/DekBaCom/Vagrant) 
-- [Microsoft365 ](https://github.com/DekBaCom/Microsoft365)  
-- [Azure Scripts ](https://github.com/DekBaCom/AzureScripts)
-- [Ansible ](https://github.com/DekBaCom/Ansible.git)
 
 ## Microsoft web portal for Consult
 - [Microsoft365 Setup Guide](https://dekbacom.github.io/Microsoft365SetupGuide/)
@@ -53,6 +47,15 @@
 - [Microsoft Intune Implementation Checklist & Report ](https://dekbacom.github.io/intune-checklist/)
 - [M365 Network Bandwidth Calculator](https://dekbacom.github.io/m365-bandwidth-calculator/)
 - [Microsoft 365 Archive vs Azure Archive Storage](https://dekbacom.github.io/Microsoft-365-Archive-vs-Azure-Archive-storage/)
+
+## Category on Github 
+- [Terraform ](https://github.com/DekBaCom/Terraform)
+- [Vagrant](https://github.com/DekBaCom/Vagrant) 
+- [Microsoft365 ](https://github.com/DekBaCom/Microsoft365)  
+- [Azure Scripts ](https://github.com/DekBaCom/AzureScripts)
+- [Ansible ](https://github.com/DekBaCom/Ansible.git)
+
+
  
 ## Latest Github posts
 - [Get-Inventory on Azure and Export ](https://github.com/DekBaCom/AzureScripts/tree/main/Get-InventoryonAzure) 
