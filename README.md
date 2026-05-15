@@ -48,6 +48,8 @@
 - [M365 Network Bandwidth Calculator](https://dekbacom.github.io/m365-bandwidth-calculator/)
 - [Microsoft 365 Archive vs Azure Archive Storage](https://dekbacom.github.io/Microsoft-365-Archive-vs-Azure-Archive-storage/)
 - [Purview  Checklist](https://dekbacom.github.io/purview-checklist/)
+- [AD Implement](https://dekbacom.github.io/Active-Directory-Implement/)
+- [Exchange Server End of Support](https://dekbacom.github.io/Exchange-Server-EOS/)
 
 ## Category on Github 
 - [Terraform ](https://github.com/DekBaCom/Terraform)
