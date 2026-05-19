@@ -50,6 +50,7 @@
 - [Purview  Checklist](https://dekbacom.github.io/purview-checklist/)
 - [AD Implement](https://dekbacom.github.io/Active-Directory-Implement/)
 - [Exchange Server End of Support](https://dekbacom.github.io/Exchange-Server-EOS/)
+- [DLP Implement Assessment](https://dekbacom.github.io/DLP-Implement-Assessment/)
 
 ## Category on Github 
 - [Terraform ](https://github.com/DekBaCom/Terraform)
