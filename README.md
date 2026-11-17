@@ -52,6 +52,7 @@
 - [Exchange Server End of Support](https://dekbacom.github.io/Exchange-Server-EOS/)
 - [DLP Implement Assessment](https://dekbacom.github.io/DLP-Implement-Assessment/)
 - [Microsoft SLA Outage Guide](https://dekbacom.github.io/Microsoft-SLA-Calculator)
+- [Microsoft License Assessment & Calculator](https://dekbacom.github.io/MicrosoftLicenseCalculator/)
 
 ## Category on Github 
 - [Terraform ](https://github.com/DekBaCom/Terraform)
